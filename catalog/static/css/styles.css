@@ -1,0 +1,13 @@
+body{
+  background-color: #FFF2F2;
+}
+
+.sidebar-nav {
+    margin-top: 20px;
+    padding: 0;
+    list-style: none;
+  }
+
+.col-sm-2{
+  background-color: #A9B5DF;
+}
